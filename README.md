@@ -15,6 +15,10 @@ Just need to run
 ```
 $ ./test/run_example.sh
 ```
+The format of DFA table can be checked in the test/Table directory.
+
+This work will keep updating (TODO: a command line tool may be provided later)
+
 
 #### Publications:
 Qiu, Junqiao, Zhijia Zhao, and Bin Ren. "Microspec: Speculation-centric fine-grained parallelization for fsm computations." Parallel Architecture and Compilation Techniques (PACT), 2016 International Conference on. IEEE, 2016.
